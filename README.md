@@ -1,25 +1,25 @@
-# 👋 Hi, @Yuurichan-N3
+# 👋 こんにちは、@Yuurichan-N3！
 
-🌸 **a.k.a Your Creative Cat Here** 🌟
+🌸 **あなたのクリエイティブな猫です** 🌟
 
-✨ **Welcome to my space!** I share scripts, tools, and resources to make your coding life easier. 🐱💻  
-🔧 Please read the instructions carefully before using them!
+✨ **私のスペースへようこそ！** スクリプト、ツール、リソースをシェアして、あなたのコーディング生活を楽にします。🐱💻  
+🔧 使い方前に、指示をよく読んでください！
 
-## 📬 **Contact Me**
+## 📬 **連絡先**
 - [<img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="X Logo" width="20"/>](https://x.com/Naadiir_08)
 - [<img src="https://abs.twimg.com/favicons/twitter.3.ico" alt="X Logo" width="20"/>](https://x.com/Naadiir_FX)
 - [<img src="https://telegram.org/img/apple-touch-icon.png" alt="Telegram Logo" width="20"/>](https://t.me/sentineldiscus)
 - [<img src="https://telegram.org/img/apple-touch-icon.png" alt="Telegram Logo" width="20"/>](https://t.me/sentinelquant)
 
-## 📊 **GitHub Stats** (Optional)
+## 📊 **GitHub 統計** (任意)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuurichan-N3&show_icons=true&theme=radical)](https://github.com/Yuurichan-N3)
 
-## 🎨 **Creative Touches**
-- 🌸 *Inspired by Japanese culture and coding adventures!*
-- 🐾 Check out my projects for more cat-themed goodies!
-- ✨ [View my pinned repos](https://github.com/Yuurichan-N3?tab=repositories)
+## 🎨 **クリエイティブなタッチ**
+- 🌸 *日本の文化とコーディングの冒険からインスピレーションを受けています！*
+- 🐾 猫テーマのグッズをもっと見たいなら、プロジェクトをチェックしてください！
+- ✨ [ピンのリポジトリを見る](https://github.com/Yuurichan-N3?tab=repositories)
 
-## 🔧 **Instructions**
-1. Clone any repo with: `git clone https://github.com/Yuurichan-N3/[repo-name].git`
-2. Read the `README` in each project for specific usage.
-3. Feel free to fork or contribute! 🚀
+## 🔧 **指示**
+1. リポジトリをクローンするには：`git clone https://github.com/Yuurichan-N3/[repo-name].git`
+2. 各プロジェクトの `README` を読んで、使い方を確認してください。
+3. フォークしたり、貢献したりしてください！🚀
