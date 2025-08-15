@@ -150,8 +150,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yuurichan-N3&style=for-the-badge&label=Profile+Views&color=ff0066" alt="Profile Views" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yuurichan-N3/Yuurichan-N3/output/snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/Yuurichan-N3/Yuurichan-N3/output/snake.svg">
-</picture>
