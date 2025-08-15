@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yuurichan-N3&fontAlign=50&fontSize=42&color=0:ff2d8d,100:ffc857&fontColor=ffffff&animation=twinkling" alt="Banner"/>
 </p>
 
-<h1 align="center">こんにちは！ I'm <b>Yuurichan-N3</b> 👾</h1>
+<h1 align="center">こんにちは！ I'm <b>Yuurichan-N3</b> </h1>
 <p align="center">Web3 & AI enthusiast • Clean architecture • Fast & elegant UI</p>
 
 <!-- ====================== SOCIALS ====================== -->
