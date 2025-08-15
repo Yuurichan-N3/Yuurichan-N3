@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Yuurichan-N3&fontAlign=50&fontAlignY=40&color=0:ff0066,100:ffcc00&desc=Web3+%26+AI+Visionary+•+Crypto+Investor+•+日本語+Learner&descAlign=50&descAlignY=65" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Yuurichan-N3&fontAlign=50&fontSize=40&color=ff0066&fontColor=ffffff&animation=twinkling" alt="Banner" />
 </p>
 
 <!-- Intro -->
