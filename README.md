@@ -74,21 +74,16 @@
 
 ---
 
-<!-- Counters -->
 <p align="center">
+  <a href="https://yuurisentinel.netlify.app/" target="_blank">
+    <img alt="Demo" src="https://img.shields.io/badge/Live+Demo-Yuurisentinel-22c55e?style=for-the-badge" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Yuurichan-N3&style=for-the-badge&label=PROFILE+VIEWS&color=ff2d8d" alt="views"/>
   <img src="https://img.shields.io/badge/Keep%20Building-ffc857?style=for-the-badge" alt="keep building"/>
 </p>
 
-<!-- Footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ff2d8d,100:ffc857" />
-</p>
-
-<!-- Optional: Snake (needs GitHub Action). See instructions below. -->  </a>
-  <a href="https://yuurisentinel.netlify.app/" target="_blank">
-    <img alt="Demo" src="https://img.shields.io/badge/Live+Demo-Yuurisentinel-22c55e?style=for-the-badge" />
-  </a>
 </p>
 
 ---
@@ -129,11 +124,9 @@
 - ☎️ **Connect with Me**:  
   - X: [@Yuurisan_desu](https://x.com/Yuurisan_desu)  
   - Telegram: [Chat group](https://t.me/sentineldiscus)  
-
-<div align="center">
-  🌐 <b>Live:</b> <a href="https://yuurisentinel.netlify.app/">yuurisentinel.netlify.app</a>
-</div>
+  - Live: [yuurisentinel.netlify.app](https://yuurisentinel.netlify.app/)
 </details>
+
 ---
 
 ##  Thanks for stopping by!
