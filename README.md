@@ -104,7 +104,17 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuurichan-N3&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- ====================== LANGUAGES ====================== -->
+<h2 align="center">💬 Most Used Languages</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yuurichan-N3/Yuurichan-N3/main/metrics.langs.svg" alt="Top Languages"/>
+</p>
 
+<!-- ====================== ISOMETRIC CALENDAR ====================== -->
+<h2 align="center">📈 Contribution Calendar</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yuurichan-N3/Yuurichan-N3/main/metrics.snake.svg" alt="Isometric Calendar"/>
+</p>
 ---
 
 ## ​ Activity Graph
