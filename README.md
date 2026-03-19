@@ -52,12 +52,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuurichan-N3&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
----
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuurichan-N3&theme=onestar&no-frame=true&margin-w=8&margin-h=8" alt="Trophies"/>
-</p>
 
 ---
 
@@ -115,12 +109,6 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuurichan-N3&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-## ​ Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuurichan-N3&theme=dracula&no-frame=true&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
 
 ---
 
@@ -141,9 +129,11 @@
 - ☎️ **Connect with Me**:  
   - X: [@Yuurisan_desu](https://x.com/Yuurisan_desu)  
   - Telegram: [Chat group](https://t.me/sentineldiscus)  
-  - Live: [yuurisentinel.netlify.app](https://yuurisentinel.netlify.app/)
-</details>
 
+<div align="center">
+  🌐 <b>Live:</b> <a href="https://yuurisentinel.netlify.app/">yuurisentinel.netlify.app</a>
+</div>
+</details>
 ---
 
 ##  Thanks for stopping by!
