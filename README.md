@@ -144,7 +144,7 @@
 - 🧠 **Interests**: Crypto investing & decentralized innovation, Japanese language & culture, clean scalable architecture.  
 - 🚀 **Mission**: Bring ideas to life through code, while exploring cross-cultural creativity.  
 - ☎️ **Connect with Me**:  
-  - X: [@Yuurisan_desu](https://x.com/Yuurisan_N1)  
+  - X: [@Yuurisan_N1](https://x.com/Yuurisan_N1)  
   - Telegram: [Chat group](https://t.me/airdropyuru)  
   - Live: [yuurisentinel.netlify.app](https://yuurisentinel.netlify.app/)
 </details>
