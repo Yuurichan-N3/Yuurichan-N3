@@ -145,7 +145,7 @@
 - 🚀 **Mission**: Bring ideas to life through code, while exploring cross-cultural creativity.  
 - ☎️ **Connect with Me**:  
   - X: [@Yuurisan_N1](https://x.com/Yuurisan_N1)  
-  - Telegram: [Chat group](https://t.me/airdropyuru)  
+  - Telegram: [Chat group](https://t.me/Y3YuYuYo)  
   - Live: [yuurisentinel.netlify.app](https://yuurisentinel.netlify.app/)
 </details>
 
