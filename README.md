@@ -88,13 +88,6 @@
 
 ---
 
-## ​ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,html,css,js,ts,python,nodejs,react,vue,docker,git,linux,aws&perline=7" />
-</p>
-
----
-
 ## ​ GitHub Stats (Live)
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yuurichan-N3&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
